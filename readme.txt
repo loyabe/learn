@@ -3,3 +3,4 @@ Git is free software.
 add merge
 Create a new branch is quick & simple
 Create a new branch is quicki AND simple
+add /usr/bin/env
